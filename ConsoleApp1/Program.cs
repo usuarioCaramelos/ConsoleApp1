@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("First text");
 
             int i = 0;
+            int j = 1;
         }
     }
 }
